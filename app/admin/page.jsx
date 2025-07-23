@@ -2,10 +2,6 @@
 import {TAGS} from "./../_lib/tags";
 
 
-export const metadata = {
-    title: 'проверь себя',
-};
-
 export default function Page() {
 
     const handleRevalidate = async () => {
