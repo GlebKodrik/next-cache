@@ -1,3 +1,4 @@
+'use client'
 import {TAGS} from "./../_lib/tags";
 
 
