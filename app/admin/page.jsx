@@ -1,4 +1,4 @@
-import {TAGS} from "@/app/_lib/tags";
+import {TAGS} from "./../_lib/tags";
 
 
 export const metadata = {
